@@ -3,9 +3,14 @@
 Projeto da disciplina Desenvolvimento de Interfaces de Usuário para Web — UNIFEOB.
 
 ## Equipe
-- [nome 1]
-- [nome 2]
-- (adicionar os demais integrantes)
+
+| Nome | RA |
+| --- | --- |
+| José Elias Pires Junior | 24001702 |
+| Maycon Gabriel da Silva Morelli | 24001786 |
+| João Victor Zerbinati Cologi Pessoa | 24001761 |
+| Mariana Oliveira Paganotti | 24001764 |
+| André Ricardo Monteiro Rocha | 24001777 |
 
 ## Sobre o projeto
 Interface do sistema interno de gestão da Don Energy (empresa de energia solar),
